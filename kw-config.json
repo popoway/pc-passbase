@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "webdav": true,
+    "webdavSaveMethod": "put",
+    "webdavStatReload": false,
+    "gdrive": true,
+    "onedrive": false
+  },
+  "files": [{
+    "storage": "webdav",
+    "name": "Passbase",
+    "path": "https://pb.popoway.cloud/webdav/Passbase.kdbx",
+    "options": {
+      "user": "popoway",
+      "password": "L!p3i846=,3S5Bm/d2E4d*.sGh,Tk\\V7"
+    }
+  }],
+  "showOnlyFilesFromConfig": true
+}
